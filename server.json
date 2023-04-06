@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Venda de Produto",
+      "type": "income",
+      "category": "Alimentação",
+      "price": 2000,
+      "createdAt": "2022-08-29T19:30:44.505Z"
+    },
+    {
+      "description": "Pagamento dev",
+      "price": 4670,
+      "category": "Despesas da empresa",
+      "type": "outcome",
+      "createdAt": "2023-04-04T13:17:35.967Z",
+      "id": 4
+    }
+  ]
+}
